@@ -1,3 +1,3 @@
 # LOGIN-SCREEN-ANIMATION
 
-Petit login screen fait en css
+Login screen fait en css avec animation
